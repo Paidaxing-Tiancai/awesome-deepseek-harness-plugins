@@ -1,0 +1,12 @@
+{
+  "$schema": "../schema/plugin.schema.json",
+  "id": "paidaxing-tiancai/dsh-strata-monitor",
+  "name": "dsh-strata-monitor",
+  "repository": "https://github.com/Paidaxing-Tiancai/dsh-strata-monitor",
+  "category": "ui",
+  "description": {
+    "en": "Embeds a Strata model server monitor in Harness: model state, decode/prefill speed, GPU metrics, conversation cache and recent requests, plus a floating mini window and a composer status strip.",
+    "zh": "在 Harness 里嵌入 Strata 模型服务器监控：模型状态、解码/预填充速度、GPU 指标、会话缓存与最近请求，附悬浮小窗与输入框状态条。"
+  },
+  "added": "2026-10-19"
+}
