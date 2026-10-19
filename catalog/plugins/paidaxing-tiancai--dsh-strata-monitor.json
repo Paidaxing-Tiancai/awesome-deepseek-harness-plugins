@@ -2,7 +2,7 @@
   "$schema": "../schema/plugin.schema.json",
   "id": "paidaxing-tiancai/dsh-strata-monitor",
   "name": "dsh-strata-monitor",
-  "repository": "https://github.com/Paidaxing-Tiancai/dsh-strata-monitor",
+  "repository": "https://github.com/paidaxing-tiancai/dsh-strata-monitor",
   "category": "ui",
   "description": {
     "en": "Embeds a Strata model server monitor in Harness: model state, decode/prefill speed, GPU metrics, conversation cache and recent requests, plus a floating mini window and a composer status strip.",
